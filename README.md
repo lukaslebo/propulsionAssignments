@@ -2,7 +2,7 @@
 
 ### Week 1:
 
-Bricks game [(Source Code)](https://github.com/lukaslebo/lukaslebo.github.io/tree/master/Bricks) | [Github-pages](lukaslebo.github.io/Bricks)
+Bricks game [(Source Code)](https://github.com/lukaslebo/lukaslebo.github.io/tree/master/Bricks) | [Github-pages](https://lukaslebo.github.io/Bricks/)
 
 ## Week 2:
 
