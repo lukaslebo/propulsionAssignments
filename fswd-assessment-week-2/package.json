@@ -1,0 +1,18 @@
+{
+  "name": "fswd-assessment-week-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webCrawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "lokijs": "^1.5.0",
+    "request": "^2.83.0",
+    "url": "^0.11.0"
+  }
+}
