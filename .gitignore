@@ -1,5 +1,6 @@
 .vscode/
 node_modules/
+test/
 
 # Compiled source #
 ###################
@@ -28,6 +29,8 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+*.db
+*.db.*
 
 # OS generated files #
 ######################
